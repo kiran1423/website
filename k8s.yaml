@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: asia-south2-docker.pkg.dev/my-project-new-490705/my-repo/app
+        image: asia-south2-docker.pkg.dev/my-project-new-490705/myrepo/app
         ports:
         - containerPort: 3000
 
